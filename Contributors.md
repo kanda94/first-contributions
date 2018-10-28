@@ -1,4 +1,5 @@
-# Contributors
+﻿# Contributors
+- [kanda](https://github.com/kanda94)
 - [Anushree](https://github.com/anushree816)
 - [gilded1](https://github.com/gilded1)
 - [Dilnawaz](me@dillo.me)
@@ -452,6 +453,7 @@ aalbusoiu
 - [Jaeren Tredway](https://github.com/JaerenTredway)
 - [Peter salihu](https://github.com/c-virus)
 - [Faiza Alam] (https://github.com/faizaalam)
+
 - [Peter Karakas](https://github.com/peti2001)
 - [H Shay](https://github.com/H-Shay)
 - [thinkinbee](https://github.com/thinkinbee)
